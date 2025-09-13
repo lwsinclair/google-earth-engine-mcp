@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cameronking4-google-earth-engine-mcp-badge.png)](https://mseep.ai/app/cameronking4-google-earth-engine-mcp)
+
 # Google Earth Engine MCP Server
 
 **Uses `@vercel/mcp-adapter`**
